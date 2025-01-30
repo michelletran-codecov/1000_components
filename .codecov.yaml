@@ -1,0 +1,5013 @@
+
+coverage:
+  status:
+    project:
+      default: false
+
+component_management:
+  default_rules:
+    statuses:
+      - type: project
+        target: auto
+
+  individual_components:
+
+    - component_id: component_0
+      name: component_0
+      paths:
+        - "Package0/**.py"
+
+    - component_id: component_1
+      name: component_1
+      paths:
+        - "Package1/**.py"
+
+    - component_id: component_2
+      name: component_2
+      paths:
+        - "Package2/**.py"
+
+    - component_id: component_3
+      name: component_3
+      paths:
+        - "Package3/**.py"
+
+    - component_id: component_4
+      name: component_4
+      paths:
+        - "Package4/**.py"
+
+    - component_id: component_5
+      name: component_5
+      paths:
+        - "Package5/**.py"
+
+    - component_id: component_6
+      name: component_6
+      paths:
+        - "Package6/**.py"
+
+    - component_id: component_7
+      name: component_7
+      paths:
+        - "Package7/**.py"
+
+    - component_id: component_8
+      name: component_8
+      paths:
+        - "Package8/**.py"
+
+    - component_id: component_9
+      name: component_9
+      paths:
+        - "Package9/**.py"
+
+    - component_id: component_10
+      name: component_10
+      paths:
+        - "Package10/**.py"
+
+    - component_id: component_11
+      name: component_11
+      paths:
+        - "Package11/**.py"
+
+    - component_id: component_12
+      name: component_12
+      paths:
+        - "Package12/**.py"
+
+    - component_id: component_13
+      name: component_13
+      paths:
+        - "Package13/**.py"
+
+    - component_id: component_14
+      name: component_14
+      paths:
+        - "Package14/**.py"
+
+    - component_id: component_15
+      name: component_15
+      paths:
+        - "Package15/**.py"
+
+    - component_id: component_16
+      name: component_16
+      paths:
+        - "Package16/**.py"
+
+    - component_id: component_17
+      name: component_17
+      paths:
+        - "Package17/**.py"
+
+    - component_id: component_18
+      name: component_18
+      paths:
+        - "Package18/**.py"
+
+    - component_id: component_19
+      name: component_19
+      paths:
+        - "Package19/**.py"
+
+    - component_id: component_20
+      name: component_20
+      paths:
+        - "Package20/**.py"
+
+    - component_id: component_21
+      name: component_21
+      paths:
+        - "Package21/**.py"
+
+    - component_id: component_22
+      name: component_22
+      paths:
+        - "Package22/**.py"
+
+    - component_id: component_23
+      name: component_23
+      paths:
+        - "Package23/**.py"
+
+    - component_id: component_24
+      name: component_24
+      paths:
+        - "Package24/**.py"
+
+    - component_id: component_25
+      name: component_25
+      paths:
+        - "Package25/**.py"
+
+    - component_id: component_26
+      name: component_26
+      paths:
+        - "Package26/**.py"
+
+    - component_id: component_27
+      name: component_27
+      paths:
+        - "Package27/**.py"
+
+    - component_id: component_28
+      name: component_28
+      paths:
+        - "Package28/**.py"
+
+    - component_id: component_29
+      name: component_29
+      paths:
+        - "Package29/**.py"
+
+    - component_id: component_30
+      name: component_30
+      paths:
+        - "Package30/**.py"
+
+    - component_id: component_31
+      name: component_31
+      paths:
+        - "Package31/**.py"
+
+    - component_id: component_32
+      name: component_32
+      paths:
+        - "Package32/**.py"
+
+    - component_id: component_33
+      name: component_33
+      paths:
+        - "Package33/**.py"
+
+    - component_id: component_34
+      name: component_34
+      paths:
+        - "Package34/**.py"
+
+    - component_id: component_35
+      name: component_35
+      paths:
+        - "Package35/**.py"
+
+    - component_id: component_36
+      name: component_36
+      paths:
+        - "Package36/**.py"
+
+    - component_id: component_37
+      name: component_37
+      paths:
+        - "Package37/**.py"
+
+    - component_id: component_38
+      name: component_38
+      paths:
+        - "Package38/**.py"
+
+    - component_id: component_39
+      name: component_39
+      paths:
+        - "Package39/**.py"
+
+    - component_id: component_40
+      name: component_40
+      paths:
+        - "Package40/**.py"
+
+    - component_id: component_41
+      name: component_41
+      paths:
+        - "Package41/**.py"
+
+    - component_id: component_42
+      name: component_42
+      paths:
+        - "Package42/**.py"
+
+    - component_id: component_43
+      name: component_43
+      paths:
+        - "Package43/**.py"
+
+    - component_id: component_44
+      name: component_44
+      paths:
+        - "Package44/**.py"
+
+    - component_id: component_45
+      name: component_45
+      paths:
+        - "Package45/**.py"
+
+    - component_id: component_46
+      name: component_46
+      paths:
+        - "Package46/**.py"
+
+    - component_id: component_47
+      name: component_47
+      paths:
+        - "Package47/**.py"
+
+    - component_id: component_48
+      name: component_48
+      paths:
+        - "Package48/**.py"
+
+    - component_id: component_49
+      name: component_49
+      paths:
+        - "Package49/**.py"
+
+    - component_id: component_50
+      name: component_50
+      paths:
+        - "Package50/**.py"
+
+    - component_id: component_51
+      name: component_51
+      paths:
+        - "Package51/**.py"
+
+    - component_id: component_52
+      name: component_52
+      paths:
+        - "Package52/**.py"
+
+    - component_id: component_53
+      name: component_53
+      paths:
+        - "Package53/**.py"
+
+    - component_id: component_54
+      name: component_54
+      paths:
+        - "Package54/**.py"
+
+    - component_id: component_55
+      name: component_55
+      paths:
+        - "Package55/**.py"
+
+    - component_id: component_56
+      name: component_56
+      paths:
+        - "Package56/**.py"
+
+    - component_id: component_57
+      name: component_57
+      paths:
+        - "Package57/**.py"
+
+    - component_id: component_58
+      name: component_58
+      paths:
+        - "Package58/**.py"
+
+    - component_id: component_59
+      name: component_59
+      paths:
+        - "Package59/**.py"
+
+    - component_id: component_60
+      name: component_60
+      paths:
+        - "Package60/**.py"
+
+    - component_id: component_61
+      name: component_61
+      paths:
+        - "Package61/**.py"
+
+    - component_id: component_62
+      name: component_62
+      paths:
+        - "Package62/**.py"
+
+    - component_id: component_63
+      name: component_63
+      paths:
+        - "Package63/**.py"
+
+    - component_id: component_64
+      name: component_64
+      paths:
+        - "Package64/**.py"
+
+    - component_id: component_65
+      name: component_65
+      paths:
+        - "Package65/**.py"
+
+    - component_id: component_66
+      name: component_66
+      paths:
+        - "Package66/**.py"
+
+    - component_id: component_67
+      name: component_67
+      paths:
+        - "Package67/**.py"
+
+    - component_id: component_68
+      name: component_68
+      paths:
+        - "Package68/**.py"
+
+    - component_id: component_69
+      name: component_69
+      paths:
+        - "Package69/**.py"
+
+    - component_id: component_70
+      name: component_70
+      paths:
+        - "Package70/**.py"
+
+    - component_id: component_71
+      name: component_71
+      paths:
+        - "Package71/**.py"
+
+    - component_id: component_72
+      name: component_72
+      paths:
+        - "Package72/**.py"
+
+    - component_id: component_73
+      name: component_73
+      paths:
+        - "Package73/**.py"
+
+    - component_id: component_74
+      name: component_74
+      paths:
+        - "Package74/**.py"
+
+    - component_id: component_75
+      name: component_75
+      paths:
+        - "Package75/**.py"
+
+    - component_id: component_76
+      name: component_76
+      paths:
+        - "Package76/**.py"
+
+    - component_id: component_77
+      name: component_77
+      paths:
+        - "Package77/**.py"
+
+    - component_id: component_78
+      name: component_78
+      paths:
+        - "Package78/**.py"
+
+    - component_id: component_79
+      name: component_79
+      paths:
+        - "Package79/**.py"
+
+    - component_id: component_80
+      name: component_80
+      paths:
+        - "Package80/**.py"
+
+    - component_id: component_81
+      name: component_81
+      paths:
+        - "Package81/**.py"
+
+    - component_id: component_82
+      name: component_82
+      paths:
+        - "Package82/**.py"
+
+    - component_id: component_83
+      name: component_83
+      paths:
+        - "Package83/**.py"
+
+    - component_id: component_84
+      name: component_84
+      paths:
+        - "Package84/**.py"
+
+    - component_id: component_85
+      name: component_85
+      paths:
+        - "Package85/**.py"
+
+    - component_id: component_86
+      name: component_86
+      paths:
+        - "Package86/**.py"
+
+    - component_id: component_87
+      name: component_87
+      paths:
+        - "Package87/**.py"
+
+    - component_id: component_88
+      name: component_88
+      paths:
+        - "Package88/**.py"
+
+    - component_id: component_89
+      name: component_89
+      paths:
+        - "Package89/**.py"
+
+    - component_id: component_90
+      name: component_90
+      paths:
+        - "Package90/**.py"
+
+    - component_id: component_91
+      name: component_91
+      paths:
+        - "Package91/**.py"
+
+    - component_id: component_92
+      name: component_92
+      paths:
+        - "Package92/**.py"
+
+    - component_id: component_93
+      name: component_93
+      paths:
+        - "Package93/**.py"
+
+    - component_id: component_94
+      name: component_94
+      paths:
+        - "Package94/**.py"
+
+    - component_id: component_95
+      name: component_95
+      paths:
+        - "Package95/**.py"
+
+    - component_id: component_96
+      name: component_96
+      paths:
+        - "Package96/**.py"
+
+    - component_id: component_97
+      name: component_97
+      paths:
+        - "Package97/**.py"
+
+    - component_id: component_98
+      name: component_98
+      paths:
+        - "Package98/**.py"
+
+    - component_id: component_99
+      name: component_99
+      paths:
+        - "Package99/**.py"
+
+    - component_id: component_100
+      name: component_100
+      paths:
+        - "Package100/**.py"
+
+    - component_id: component_101
+      name: component_101
+      paths:
+        - "Package101/**.py"
+
+    - component_id: component_102
+      name: component_102
+      paths:
+        - "Package102/**.py"
+
+    - component_id: component_103
+      name: component_103
+      paths:
+        - "Package103/**.py"
+
+    - component_id: component_104
+      name: component_104
+      paths:
+        - "Package104/**.py"
+
+    - component_id: component_105
+      name: component_105
+      paths:
+        - "Package105/**.py"
+
+    - component_id: component_106
+      name: component_106
+      paths:
+        - "Package106/**.py"
+
+    - component_id: component_107
+      name: component_107
+      paths:
+        - "Package107/**.py"
+
+    - component_id: component_108
+      name: component_108
+      paths:
+        - "Package108/**.py"
+
+    - component_id: component_109
+      name: component_109
+      paths:
+        - "Package109/**.py"
+
+    - component_id: component_110
+      name: component_110
+      paths:
+        - "Package110/**.py"
+
+    - component_id: component_111
+      name: component_111
+      paths:
+        - "Package111/**.py"
+
+    - component_id: component_112
+      name: component_112
+      paths:
+        - "Package112/**.py"
+
+    - component_id: component_113
+      name: component_113
+      paths:
+        - "Package113/**.py"
+
+    - component_id: component_114
+      name: component_114
+      paths:
+        - "Package114/**.py"
+
+    - component_id: component_115
+      name: component_115
+      paths:
+        - "Package115/**.py"
+
+    - component_id: component_116
+      name: component_116
+      paths:
+        - "Package116/**.py"
+
+    - component_id: component_117
+      name: component_117
+      paths:
+        - "Package117/**.py"
+
+    - component_id: component_118
+      name: component_118
+      paths:
+        - "Package118/**.py"
+
+    - component_id: component_119
+      name: component_119
+      paths:
+        - "Package119/**.py"
+
+    - component_id: component_120
+      name: component_120
+      paths:
+        - "Package120/**.py"
+
+    - component_id: component_121
+      name: component_121
+      paths:
+        - "Package121/**.py"
+
+    - component_id: component_122
+      name: component_122
+      paths:
+        - "Package122/**.py"
+
+    - component_id: component_123
+      name: component_123
+      paths:
+        - "Package123/**.py"
+
+    - component_id: component_124
+      name: component_124
+      paths:
+        - "Package124/**.py"
+
+    - component_id: component_125
+      name: component_125
+      paths:
+        - "Package125/**.py"
+
+    - component_id: component_126
+      name: component_126
+      paths:
+        - "Package126/**.py"
+
+    - component_id: component_127
+      name: component_127
+      paths:
+        - "Package127/**.py"
+
+    - component_id: component_128
+      name: component_128
+      paths:
+        - "Package128/**.py"
+
+    - component_id: component_129
+      name: component_129
+      paths:
+        - "Package129/**.py"
+
+    - component_id: component_130
+      name: component_130
+      paths:
+        - "Package130/**.py"
+
+    - component_id: component_131
+      name: component_131
+      paths:
+        - "Package131/**.py"
+
+    - component_id: component_132
+      name: component_132
+      paths:
+        - "Package132/**.py"
+
+    - component_id: component_133
+      name: component_133
+      paths:
+        - "Package133/**.py"
+
+    - component_id: component_134
+      name: component_134
+      paths:
+        - "Package134/**.py"
+
+    - component_id: component_135
+      name: component_135
+      paths:
+        - "Package135/**.py"
+
+    - component_id: component_136
+      name: component_136
+      paths:
+        - "Package136/**.py"
+
+    - component_id: component_137
+      name: component_137
+      paths:
+        - "Package137/**.py"
+
+    - component_id: component_138
+      name: component_138
+      paths:
+        - "Package138/**.py"
+
+    - component_id: component_139
+      name: component_139
+      paths:
+        - "Package139/**.py"
+
+    - component_id: component_140
+      name: component_140
+      paths:
+        - "Package140/**.py"
+
+    - component_id: component_141
+      name: component_141
+      paths:
+        - "Package141/**.py"
+
+    - component_id: component_142
+      name: component_142
+      paths:
+        - "Package142/**.py"
+
+    - component_id: component_143
+      name: component_143
+      paths:
+        - "Package143/**.py"
+
+    - component_id: component_144
+      name: component_144
+      paths:
+        - "Package144/**.py"
+
+    - component_id: component_145
+      name: component_145
+      paths:
+        - "Package145/**.py"
+
+    - component_id: component_146
+      name: component_146
+      paths:
+        - "Package146/**.py"
+
+    - component_id: component_147
+      name: component_147
+      paths:
+        - "Package147/**.py"
+
+    - component_id: component_148
+      name: component_148
+      paths:
+        - "Package148/**.py"
+
+    - component_id: component_149
+      name: component_149
+      paths:
+        - "Package149/**.py"
+
+    - component_id: component_150
+      name: component_150
+      paths:
+        - "Package150/**.py"
+
+    - component_id: component_151
+      name: component_151
+      paths:
+        - "Package151/**.py"
+
+    - component_id: component_152
+      name: component_152
+      paths:
+        - "Package152/**.py"
+
+    - component_id: component_153
+      name: component_153
+      paths:
+        - "Package153/**.py"
+
+    - component_id: component_154
+      name: component_154
+      paths:
+        - "Package154/**.py"
+
+    - component_id: component_155
+      name: component_155
+      paths:
+        - "Package155/**.py"
+
+    - component_id: component_156
+      name: component_156
+      paths:
+        - "Package156/**.py"
+
+    - component_id: component_157
+      name: component_157
+      paths:
+        - "Package157/**.py"
+
+    - component_id: component_158
+      name: component_158
+      paths:
+        - "Package158/**.py"
+
+    - component_id: component_159
+      name: component_159
+      paths:
+        - "Package159/**.py"
+
+    - component_id: component_160
+      name: component_160
+      paths:
+        - "Package160/**.py"
+
+    - component_id: component_161
+      name: component_161
+      paths:
+        - "Package161/**.py"
+
+    - component_id: component_162
+      name: component_162
+      paths:
+        - "Package162/**.py"
+
+    - component_id: component_163
+      name: component_163
+      paths:
+        - "Package163/**.py"
+
+    - component_id: component_164
+      name: component_164
+      paths:
+        - "Package164/**.py"
+
+    - component_id: component_165
+      name: component_165
+      paths:
+        - "Package165/**.py"
+
+    - component_id: component_166
+      name: component_166
+      paths:
+        - "Package166/**.py"
+
+    - component_id: component_167
+      name: component_167
+      paths:
+        - "Package167/**.py"
+
+    - component_id: component_168
+      name: component_168
+      paths:
+        - "Package168/**.py"
+
+    - component_id: component_169
+      name: component_169
+      paths:
+        - "Package169/**.py"
+
+    - component_id: component_170
+      name: component_170
+      paths:
+        - "Package170/**.py"
+
+    - component_id: component_171
+      name: component_171
+      paths:
+        - "Package171/**.py"
+
+    - component_id: component_172
+      name: component_172
+      paths:
+        - "Package172/**.py"
+
+    - component_id: component_173
+      name: component_173
+      paths:
+        - "Package173/**.py"
+
+    - component_id: component_174
+      name: component_174
+      paths:
+        - "Package174/**.py"
+
+    - component_id: component_175
+      name: component_175
+      paths:
+        - "Package175/**.py"
+
+    - component_id: component_176
+      name: component_176
+      paths:
+        - "Package176/**.py"
+
+    - component_id: component_177
+      name: component_177
+      paths:
+        - "Package177/**.py"
+
+    - component_id: component_178
+      name: component_178
+      paths:
+        - "Package178/**.py"
+
+    - component_id: component_179
+      name: component_179
+      paths:
+        - "Package179/**.py"
+
+    - component_id: component_180
+      name: component_180
+      paths:
+        - "Package180/**.py"
+
+    - component_id: component_181
+      name: component_181
+      paths:
+        - "Package181/**.py"
+
+    - component_id: component_182
+      name: component_182
+      paths:
+        - "Package182/**.py"
+
+    - component_id: component_183
+      name: component_183
+      paths:
+        - "Package183/**.py"
+
+    - component_id: component_184
+      name: component_184
+      paths:
+        - "Package184/**.py"
+
+    - component_id: component_185
+      name: component_185
+      paths:
+        - "Package185/**.py"
+
+    - component_id: component_186
+      name: component_186
+      paths:
+        - "Package186/**.py"
+
+    - component_id: component_187
+      name: component_187
+      paths:
+        - "Package187/**.py"
+
+    - component_id: component_188
+      name: component_188
+      paths:
+        - "Package188/**.py"
+
+    - component_id: component_189
+      name: component_189
+      paths:
+        - "Package189/**.py"
+
+    - component_id: component_190
+      name: component_190
+      paths:
+        - "Package190/**.py"
+
+    - component_id: component_191
+      name: component_191
+      paths:
+        - "Package191/**.py"
+
+    - component_id: component_192
+      name: component_192
+      paths:
+        - "Package192/**.py"
+
+    - component_id: component_193
+      name: component_193
+      paths:
+        - "Package193/**.py"
+
+    - component_id: component_194
+      name: component_194
+      paths:
+        - "Package194/**.py"
+
+    - component_id: component_195
+      name: component_195
+      paths:
+        - "Package195/**.py"
+
+    - component_id: component_196
+      name: component_196
+      paths:
+        - "Package196/**.py"
+
+    - component_id: component_197
+      name: component_197
+      paths:
+        - "Package197/**.py"
+
+    - component_id: component_198
+      name: component_198
+      paths:
+        - "Package198/**.py"
+
+    - component_id: component_199
+      name: component_199
+      paths:
+        - "Package199/**.py"
+
+    - component_id: component_200
+      name: component_200
+      paths:
+        - "Package200/**.py"
+
+    - component_id: component_201
+      name: component_201
+      paths:
+        - "Package201/**.py"
+
+    - component_id: component_202
+      name: component_202
+      paths:
+        - "Package202/**.py"
+
+    - component_id: component_203
+      name: component_203
+      paths:
+        - "Package203/**.py"
+
+    - component_id: component_204
+      name: component_204
+      paths:
+        - "Package204/**.py"
+
+    - component_id: component_205
+      name: component_205
+      paths:
+        - "Package205/**.py"
+
+    - component_id: component_206
+      name: component_206
+      paths:
+        - "Package206/**.py"
+
+    - component_id: component_207
+      name: component_207
+      paths:
+        - "Package207/**.py"
+
+    - component_id: component_208
+      name: component_208
+      paths:
+        - "Package208/**.py"
+
+    - component_id: component_209
+      name: component_209
+      paths:
+        - "Package209/**.py"
+
+    - component_id: component_210
+      name: component_210
+      paths:
+        - "Package210/**.py"
+
+    - component_id: component_211
+      name: component_211
+      paths:
+        - "Package211/**.py"
+
+    - component_id: component_212
+      name: component_212
+      paths:
+        - "Package212/**.py"
+
+    - component_id: component_213
+      name: component_213
+      paths:
+        - "Package213/**.py"
+
+    - component_id: component_214
+      name: component_214
+      paths:
+        - "Package214/**.py"
+
+    - component_id: component_215
+      name: component_215
+      paths:
+        - "Package215/**.py"
+
+    - component_id: component_216
+      name: component_216
+      paths:
+        - "Package216/**.py"
+
+    - component_id: component_217
+      name: component_217
+      paths:
+        - "Package217/**.py"
+
+    - component_id: component_218
+      name: component_218
+      paths:
+        - "Package218/**.py"
+
+    - component_id: component_219
+      name: component_219
+      paths:
+        - "Package219/**.py"
+
+    - component_id: component_220
+      name: component_220
+      paths:
+        - "Package220/**.py"
+
+    - component_id: component_221
+      name: component_221
+      paths:
+        - "Package221/**.py"
+
+    - component_id: component_222
+      name: component_222
+      paths:
+        - "Package222/**.py"
+
+    - component_id: component_223
+      name: component_223
+      paths:
+        - "Package223/**.py"
+
+    - component_id: component_224
+      name: component_224
+      paths:
+        - "Package224/**.py"
+
+    - component_id: component_225
+      name: component_225
+      paths:
+        - "Package225/**.py"
+
+    - component_id: component_226
+      name: component_226
+      paths:
+        - "Package226/**.py"
+
+    - component_id: component_227
+      name: component_227
+      paths:
+        - "Package227/**.py"
+
+    - component_id: component_228
+      name: component_228
+      paths:
+        - "Package228/**.py"
+
+    - component_id: component_229
+      name: component_229
+      paths:
+        - "Package229/**.py"
+
+    - component_id: component_230
+      name: component_230
+      paths:
+        - "Package230/**.py"
+
+    - component_id: component_231
+      name: component_231
+      paths:
+        - "Package231/**.py"
+
+    - component_id: component_232
+      name: component_232
+      paths:
+        - "Package232/**.py"
+
+    - component_id: component_233
+      name: component_233
+      paths:
+        - "Package233/**.py"
+
+    - component_id: component_234
+      name: component_234
+      paths:
+        - "Package234/**.py"
+
+    - component_id: component_235
+      name: component_235
+      paths:
+        - "Package235/**.py"
+
+    - component_id: component_236
+      name: component_236
+      paths:
+        - "Package236/**.py"
+
+    - component_id: component_237
+      name: component_237
+      paths:
+        - "Package237/**.py"
+
+    - component_id: component_238
+      name: component_238
+      paths:
+        - "Package238/**.py"
+
+    - component_id: component_239
+      name: component_239
+      paths:
+        - "Package239/**.py"
+
+    - component_id: component_240
+      name: component_240
+      paths:
+        - "Package240/**.py"
+
+    - component_id: component_241
+      name: component_241
+      paths:
+        - "Package241/**.py"
+
+    - component_id: component_242
+      name: component_242
+      paths:
+        - "Package242/**.py"
+
+    - component_id: component_243
+      name: component_243
+      paths:
+        - "Package243/**.py"
+
+    - component_id: component_244
+      name: component_244
+      paths:
+        - "Package244/**.py"
+
+    - component_id: component_245
+      name: component_245
+      paths:
+        - "Package245/**.py"
+
+    - component_id: component_246
+      name: component_246
+      paths:
+        - "Package246/**.py"
+
+    - component_id: component_247
+      name: component_247
+      paths:
+        - "Package247/**.py"
+
+    - component_id: component_248
+      name: component_248
+      paths:
+        - "Package248/**.py"
+
+    - component_id: component_249
+      name: component_249
+      paths:
+        - "Package249/**.py"
+
+    - component_id: component_250
+      name: component_250
+      paths:
+        - "Package250/**.py"
+
+    - component_id: component_251
+      name: component_251
+      paths:
+        - "Package251/**.py"
+
+    - component_id: component_252
+      name: component_252
+      paths:
+        - "Package252/**.py"
+
+    - component_id: component_253
+      name: component_253
+      paths:
+        - "Package253/**.py"
+
+    - component_id: component_254
+      name: component_254
+      paths:
+        - "Package254/**.py"
+
+    - component_id: component_255
+      name: component_255
+      paths:
+        - "Package255/**.py"
+
+    - component_id: component_256
+      name: component_256
+      paths:
+        - "Package256/**.py"
+
+    - component_id: component_257
+      name: component_257
+      paths:
+        - "Package257/**.py"
+
+    - component_id: component_258
+      name: component_258
+      paths:
+        - "Package258/**.py"
+
+    - component_id: component_259
+      name: component_259
+      paths:
+        - "Package259/**.py"
+
+    - component_id: component_260
+      name: component_260
+      paths:
+        - "Package260/**.py"
+
+    - component_id: component_261
+      name: component_261
+      paths:
+        - "Package261/**.py"
+
+    - component_id: component_262
+      name: component_262
+      paths:
+        - "Package262/**.py"
+
+    - component_id: component_263
+      name: component_263
+      paths:
+        - "Package263/**.py"
+
+    - component_id: component_264
+      name: component_264
+      paths:
+        - "Package264/**.py"
+
+    - component_id: component_265
+      name: component_265
+      paths:
+        - "Package265/**.py"
+
+    - component_id: component_266
+      name: component_266
+      paths:
+        - "Package266/**.py"
+
+    - component_id: component_267
+      name: component_267
+      paths:
+        - "Package267/**.py"
+
+    - component_id: component_268
+      name: component_268
+      paths:
+        - "Package268/**.py"
+
+    - component_id: component_269
+      name: component_269
+      paths:
+        - "Package269/**.py"
+
+    - component_id: component_270
+      name: component_270
+      paths:
+        - "Package270/**.py"
+
+    - component_id: component_271
+      name: component_271
+      paths:
+        - "Package271/**.py"
+
+    - component_id: component_272
+      name: component_272
+      paths:
+        - "Package272/**.py"
+
+    - component_id: component_273
+      name: component_273
+      paths:
+        - "Package273/**.py"
+
+    - component_id: component_274
+      name: component_274
+      paths:
+        - "Package274/**.py"
+
+    - component_id: component_275
+      name: component_275
+      paths:
+        - "Package275/**.py"
+
+    - component_id: component_276
+      name: component_276
+      paths:
+        - "Package276/**.py"
+
+    - component_id: component_277
+      name: component_277
+      paths:
+        - "Package277/**.py"
+
+    - component_id: component_278
+      name: component_278
+      paths:
+        - "Package278/**.py"
+
+    - component_id: component_279
+      name: component_279
+      paths:
+        - "Package279/**.py"
+
+    - component_id: component_280
+      name: component_280
+      paths:
+        - "Package280/**.py"
+
+    - component_id: component_281
+      name: component_281
+      paths:
+        - "Package281/**.py"
+
+    - component_id: component_282
+      name: component_282
+      paths:
+        - "Package282/**.py"
+
+    - component_id: component_283
+      name: component_283
+      paths:
+        - "Package283/**.py"
+
+    - component_id: component_284
+      name: component_284
+      paths:
+        - "Package284/**.py"
+
+    - component_id: component_285
+      name: component_285
+      paths:
+        - "Package285/**.py"
+
+    - component_id: component_286
+      name: component_286
+      paths:
+        - "Package286/**.py"
+
+    - component_id: component_287
+      name: component_287
+      paths:
+        - "Package287/**.py"
+
+    - component_id: component_288
+      name: component_288
+      paths:
+        - "Package288/**.py"
+
+    - component_id: component_289
+      name: component_289
+      paths:
+        - "Package289/**.py"
+
+    - component_id: component_290
+      name: component_290
+      paths:
+        - "Package290/**.py"
+
+    - component_id: component_291
+      name: component_291
+      paths:
+        - "Package291/**.py"
+
+    - component_id: component_292
+      name: component_292
+      paths:
+        - "Package292/**.py"
+
+    - component_id: component_293
+      name: component_293
+      paths:
+        - "Package293/**.py"
+
+    - component_id: component_294
+      name: component_294
+      paths:
+        - "Package294/**.py"
+
+    - component_id: component_295
+      name: component_295
+      paths:
+        - "Package295/**.py"
+
+    - component_id: component_296
+      name: component_296
+      paths:
+        - "Package296/**.py"
+
+    - component_id: component_297
+      name: component_297
+      paths:
+        - "Package297/**.py"
+
+    - component_id: component_298
+      name: component_298
+      paths:
+        - "Package298/**.py"
+
+    - component_id: component_299
+      name: component_299
+      paths:
+        - "Package299/**.py"
+
+    - component_id: component_300
+      name: component_300
+      paths:
+        - "Package300/**.py"
+
+    - component_id: component_301
+      name: component_301
+      paths:
+        - "Package301/**.py"
+
+    - component_id: component_302
+      name: component_302
+      paths:
+        - "Package302/**.py"
+
+    - component_id: component_303
+      name: component_303
+      paths:
+        - "Package303/**.py"
+
+    - component_id: component_304
+      name: component_304
+      paths:
+        - "Package304/**.py"
+
+    - component_id: component_305
+      name: component_305
+      paths:
+        - "Package305/**.py"
+
+    - component_id: component_306
+      name: component_306
+      paths:
+        - "Package306/**.py"
+
+    - component_id: component_307
+      name: component_307
+      paths:
+        - "Package307/**.py"
+
+    - component_id: component_308
+      name: component_308
+      paths:
+        - "Package308/**.py"
+
+    - component_id: component_309
+      name: component_309
+      paths:
+        - "Package309/**.py"
+
+    - component_id: component_310
+      name: component_310
+      paths:
+        - "Package310/**.py"
+
+    - component_id: component_311
+      name: component_311
+      paths:
+        - "Package311/**.py"
+
+    - component_id: component_312
+      name: component_312
+      paths:
+        - "Package312/**.py"
+
+    - component_id: component_313
+      name: component_313
+      paths:
+        - "Package313/**.py"
+
+    - component_id: component_314
+      name: component_314
+      paths:
+        - "Package314/**.py"
+
+    - component_id: component_315
+      name: component_315
+      paths:
+        - "Package315/**.py"
+
+    - component_id: component_316
+      name: component_316
+      paths:
+        - "Package316/**.py"
+
+    - component_id: component_317
+      name: component_317
+      paths:
+        - "Package317/**.py"
+
+    - component_id: component_318
+      name: component_318
+      paths:
+        - "Package318/**.py"
+
+    - component_id: component_319
+      name: component_319
+      paths:
+        - "Package319/**.py"
+
+    - component_id: component_320
+      name: component_320
+      paths:
+        - "Package320/**.py"
+
+    - component_id: component_321
+      name: component_321
+      paths:
+        - "Package321/**.py"
+
+    - component_id: component_322
+      name: component_322
+      paths:
+        - "Package322/**.py"
+
+    - component_id: component_323
+      name: component_323
+      paths:
+        - "Package323/**.py"
+
+    - component_id: component_324
+      name: component_324
+      paths:
+        - "Package324/**.py"
+
+    - component_id: component_325
+      name: component_325
+      paths:
+        - "Package325/**.py"
+
+    - component_id: component_326
+      name: component_326
+      paths:
+        - "Package326/**.py"
+
+    - component_id: component_327
+      name: component_327
+      paths:
+        - "Package327/**.py"
+
+    - component_id: component_328
+      name: component_328
+      paths:
+        - "Package328/**.py"
+
+    - component_id: component_329
+      name: component_329
+      paths:
+        - "Package329/**.py"
+
+    - component_id: component_330
+      name: component_330
+      paths:
+        - "Package330/**.py"
+
+    - component_id: component_331
+      name: component_331
+      paths:
+        - "Package331/**.py"
+
+    - component_id: component_332
+      name: component_332
+      paths:
+        - "Package332/**.py"
+
+    - component_id: component_333
+      name: component_333
+      paths:
+        - "Package333/**.py"
+
+    - component_id: component_334
+      name: component_334
+      paths:
+        - "Package334/**.py"
+
+    - component_id: component_335
+      name: component_335
+      paths:
+        - "Package335/**.py"
+
+    - component_id: component_336
+      name: component_336
+      paths:
+        - "Package336/**.py"
+
+    - component_id: component_337
+      name: component_337
+      paths:
+        - "Package337/**.py"
+
+    - component_id: component_338
+      name: component_338
+      paths:
+        - "Package338/**.py"
+
+    - component_id: component_339
+      name: component_339
+      paths:
+        - "Package339/**.py"
+
+    - component_id: component_340
+      name: component_340
+      paths:
+        - "Package340/**.py"
+
+    - component_id: component_341
+      name: component_341
+      paths:
+        - "Package341/**.py"
+
+    - component_id: component_342
+      name: component_342
+      paths:
+        - "Package342/**.py"
+
+    - component_id: component_343
+      name: component_343
+      paths:
+        - "Package343/**.py"
+
+    - component_id: component_344
+      name: component_344
+      paths:
+        - "Package344/**.py"
+
+    - component_id: component_345
+      name: component_345
+      paths:
+        - "Package345/**.py"
+
+    - component_id: component_346
+      name: component_346
+      paths:
+        - "Package346/**.py"
+
+    - component_id: component_347
+      name: component_347
+      paths:
+        - "Package347/**.py"
+
+    - component_id: component_348
+      name: component_348
+      paths:
+        - "Package348/**.py"
+
+    - component_id: component_349
+      name: component_349
+      paths:
+        - "Package349/**.py"
+
+    - component_id: component_350
+      name: component_350
+      paths:
+        - "Package350/**.py"
+
+    - component_id: component_351
+      name: component_351
+      paths:
+        - "Package351/**.py"
+
+    - component_id: component_352
+      name: component_352
+      paths:
+        - "Package352/**.py"
+
+    - component_id: component_353
+      name: component_353
+      paths:
+        - "Package353/**.py"
+
+    - component_id: component_354
+      name: component_354
+      paths:
+        - "Package354/**.py"
+
+    - component_id: component_355
+      name: component_355
+      paths:
+        - "Package355/**.py"
+
+    - component_id: component_356
+      name: component_356
+      paths:
+        - "Package356/**.py"
+
+    - component_id: component_357
+      name: component_357
+      paths:
+        - "Package357/**.py"
+
+    - component_id: component_358
+      name: component_358
+      paths:
+        - "Package358/**.py"
+
+    - component_id: component_359
+      name: component_359
+      paths:
+        - "Package359/**.py"
+
+    - component_id: component_360
+      name: component_360
+      paths:
+        - "Package360/**.py"
+
+    - component_id: component_361
+      name: component_361
+      paths:
+        - "Package361/**.py"
+
+    - component_id: component_362
+      name: component_362
+      paths:
+        - "Package362/**.py"
+
+    - component_id: component_363
+      name: component_363
+      paths:
+        - "Package363/**.py"
+
+    - component_id: component_364
+      name: component_364
+      paths:
+        - "Package364/**.py"
+
+    - component_id: component_365
+      name: component_365
+      paths:
+        - "Package365/**.py"
+
+    - component_id: component_366
+      name: component_366
+      paths:
+        - "Package366/**.py"
+
+    - component_id: component_367
+      name: component_367
+      paths:
+        - "Package367/**.py"
+
+    - component_id: component_368
+      name: component_368
+      paths:
+        - "Package368/**.py"
+
+    - component_id: component_369
+      name: component_369
+      paths:
+        - "Package369/**.py"
+
+    - component_id: component_370
+      name: component_370
+      paths:
+        - "Package370/**.py"
+
+    - component_id: component_371
+      name: component_371
+      paths:
+        - "Package371/**.py"
+
+    - component_id: component_372
+      name: component_372
+      paths:
+        - "Package372/**.py"
+
+    - component_id: component_373
+      name: component_373
+      paths:
+        - "Package373/**.py"
+
+    - component_id: component_374
+      name: component_374
+      paths:
+        - "Package374/**.py"
+
+    - component_id: component_375
+      name: component_375
+      paths:
+        - "Package375/**.py"
+
+    - component_id: component_376
+      name: component_376
+      paths:
+        - "Package376/**.py"
+
+    - component_id: component_377
+      name: component_377
+      paths:
+        - "Package377/**.py"
+
+    - component_id: component_378
+      name: component_378
+      paths:
+        - "Package378/**.py"
+
+    - component_id: component_379
+      name: component_379
+      paths:
+        - "Package379/**.py"
+
+    - component_id: component_380
+      name: component_380
+      paths:
+        - "Package380/**.py"
+
+    - component_id: component_381
+      name: component_381
+      paths:
+        - "Package381/**.py"
+
+    - component_id: component_382
+      name: component_382
+      paths:
+        - "Package382/**.py"
+
+    - component_id: component_383
+      name: component_383
+      paths:
+        - "Package383/**.py"
+
+    - component_id: component_384
+      name: component_384
+      paths:
+        - "Package384/**.py"
+
+    - component_id: component_385
+      name: component_385
+      paths:
+        - "Package385/**.py"
+
+    - component_id: component_386
+      name: component_386
+      paths:
+        - "Package386/**.py"
+
+    - component_id: component_387
+      name: component_387
+      paths:
+        - "Package387/**.py"
+
+    - component_id: component_388
+      name: component_388
+      paths:
+        - "Package388/**.py"
+
+    - component_id: component_389
+      name: component_389
+      paths:
+        - "Package389/**.py"
+
+    - component_id: component_390
+      name: component_390
+      paths:
+        - "Package390/**.py"
+
+    - component_id: component_391
+      name: component_391
+      paths:
+        - "Package391/**.py"
+
+    - component_id: component_392
+      name: component_392
+      paths:
+        - "Package392/**.py"
+
+    - component_id: component_393
+      name: component_393
+      paths:
+        - "Package393/**.py"
+
+    - component_id: component_394
+      name: component_394
+      paths:
+        - "Package394/**.py"
+
+    - component_id: component_395
+      name: component_395
+      paths:
+        - "Package395/**.py"
+
+    - component_id: component_396
+      name: component_396
+      paths:
+        - "Package396/**.py"
+
+    - component_id: component_397
+      name: component_397
+      paths:
+        - "Package397/**.py"
+
+    - component_id: component_398
+      name: component_398
+      paths:
+        - "Package398/**.py"
+
+    - component_id: component_399
+      name: component_399
+      paths:
+        - "Package399/**.py"
+
+    - component_id: component_400
+      name: component_400
+      paths:
+        - "Package400/**.py"
+
+    - component_id: component_401
+      name: component_401
+      paths:
+        - "Package401/**.py"
+
+    - component_id: component_402
+      name: component_402
+      paths:
+        - "Package402/**.py"
+
+    - component_id: component_403
+      name: component_403
+      paths:
+        - "Package403/**.py"
+
+    - component_id: component_404
+      name: component_404
+      paths:
+        - "Package404/**.py"
+
+    - component_id: component_405
+      name: component_405
+      paths:
+        - "Package405/**.py"
+
+    - component_id: component_406
+      name: component_406
+      paths:
+        - "Package406/**.py"
+
+    - component_id: component_407
+      name: component_407
+      paths:
+        - "Package407/**.py"
+
+    - component_id: component_408
+      name: component_408
+      paths:
+        - "Package408/**.py"
+
+    - component_id: component_409
+      name: component_409
+      paths:
+        - "Package409/**.py"
+
+    - component_id: component_410
+      name: component_410
+      paths:
+        - "Package410/**.py"
+
+    - component_id: component_411
+      name: component_411
+      paths:
+        - "Package411/**.py"
+
+    - component_id: component_412
+      name: component_412
+      paths:
+        - "Package412/**.py"
+
+    - component_id: component_413
+      name: component_413
+      paths:
+        - "Package413/**.py"
+
+    - component_id: component_414
+      name: component_414
+      paths:
+        - "Package414/**.py"
+
+    - component_id: component_415
+      name: component_415
+      paths:
+        - "Package415/**.py"
+
+    - component_id: component_416
+      name: component_416
+      paths:
+        - "Package416/**.py"
+
+    - component_id: component_417
+      name: component_417
+      paths:
+        - "Package417/**.py"
+
+    - component_id: component_418
+      name: component_418
+      paths:
+        - "Package418/**.py"
+
+    - component_id: component_419
+      name: component_419
+      paths:
+        - "Package419/**.py"
+
+    - component_id: component_420
+      name: component_420
+      paths:
+        - "Package420/**.py"
+
+    - component_id: component_421
+      name: component_421
+      paths:
+        - "Package421/**.py"
+
+    - component_id: component_422
+      name: component_422
+      paths:
+        - "Package422/**.py"
+
+    - component_id: component_423
+      name: component_423
+      paths:
+        - "Package423/**.py"
+
+    - component_id: component_424
+      name: component_424
+      paths:
+        - "Package424/**.py"
+
+    - component_id: component_425
+      name: component_425
+      paths:
+        - "Package425/**.py"
+
+    - component_id: component_426
+      name: component_426
+      paths:
+        - "Package426/**.py"
+
+    - component_id: component_427
+      name: component_427
+      paths:
+        - "Package427/**.py"
+
+    - component_id: component_428
+      name: component_428
+      paths:
+        - "Package428/**.py"
+
+    - component_id: component_429
+      name: component_429
+      paths:
+        - "Package429/**.py"
+
+    - component_id: component_430
+      name: component_430
+      paths:
+        - "Package430/**.py"
+
+    - component_id: component_431
+      name: component_431
+      paths:
+        - "Package431/**.py"
+
+    - component_id: component_432
+      name: component_432
+      paths:
+        - "Package432/**.py"
+
+    - component_id: component_433
+      name: component_433
+      paths:
+        - "Package433/**.py"
+
+    - component_id: component_434
+      name: component_434
+      paths:
+        - "Package434/**.py"
+
+    - component_id: component_435
+      name: component_435
+      paths:
+        - "Package435/**.py"
+
+    - component_id: component_436
+      name: component_436
+      paths:
+        - "Package436/**.py"
+
+    - component_id: component_437
+      name: component_437
+      paths:
+        - "Package437/**.py"
+
+    - component_id: component_438
+      name: component_438
+      paths:
+        - "Package438/**.py"
+
+    - component_id: component_439
+      name: component_439
+      paths:
+        - "Package439/**.py"
+
+    - component_id: component_440
+      name: component_440
+      paths:
+        - "Package440/**.py"
+
+    - component_id: component_441
+      name: component_441
+      paths:
+        - "Package441/**.py"
+
+    - component_id: component_442
+      name: component_442
+      paths:
+        - "Package442/**.py"
+
+    - component_id: component_443
+      name: component_443
+      paths:
+        - "Package443/**.py"
+
+    - component_id: component_444
+      name: component_444
+      paths:
+        - "Package444/**.py"
+
+    - component_id: component_445
+      name: component_445
+      paths:
+        - "Package445/**.py"
+
+    - component_id: component_446
+      name: component_446
+      paths:
+        - "Package446/**.py"
+
+    - component_id: component_447
+      name: component_447
+      paths:
+        - "Package447/**.py"
+
+    - component_id: component_448
+      name: component_448
+      paths:
+        - "Package448/**.py"
+
+    - component_id: component_449
+      name: component_449
+      paths:
+        - "Package449/**.py"
+
+    - component_id: component_450
+      name: component_450
+      paths:
+        - "Package450/**.py"
+
+    - component_id: component_451
+      name: component_451
+      paths:
+        - "Package451/**.py"
+
+    - component_id: component_452
+      name: component_452
+      paths:
+        - "Package452/**.py"
+
+    - component_id: component_453
+      name: component_453
+      paths:
+        - "Package453/**.py"
+
+    - component_id: component_454
+      name: component_454
+      paths:
+        - "Package454/**.py"
+
+    - component_id: component_455
+      name: component_455
+      paths:
+        - "Package455/**.py"
+
+    - component_id: component_456
+      name: component_456
+      paths:
+        - "Package456/**.py"
+
+    - component_id: component_457
+      name: component_457
+      paths:
+        - "Package457/**.py"
+
+    - component_id: component_458
+      name: component_458
+      paths:
+        - "Package458/**.py"
+
+    - component_id: component_459
+      name: component_459
+      paths:
+        - "Package459/**.py"
+
+    - component_id: component_460
+      name: component_460
+      paths:
+        - "Package460/**.py"
+
+    - component_id: component_461
+      name: component_461
+      paths:
+        - "Package461/**.py"
+
+    - component_id: component_462
+      name: component_462
+      paths:
+        - "Package462/**.py"
+
+    - component_id: component_463
+      name: component_463
+      paths:
+        - "Package463/**.py"
+
+    - component_id: component_464
+      name: component_464
+      paths:
+        - "Package464/**.py"
+
+    - component_id: component_465
+      name: component_465
+      paths:
+        - "Package465/**.py"
+
+    - component_id: component_466
+      name: component_466
+      paths:
+        - "Package466/**.py"
+
+    - component_id: component_467
+      name: component_467
+      paths:
+        - "Package467/**.py"
+
+    - component_id: component_468
+      name: component_468
+      paths:
+        - "Package468/**.py"
+
+    - component_id: component_469
+      name: component_469
+      paths:
+        - "Package469/**.py"
+
+    - component_id: component_470
+      name: component_470
+      paths:
+        - "Package470/**.py"
+
+    - component_id: component_471
+      name: component_471
+      paths:
+        - "Package471/**.py"
+
+    - component_id: component_472
+      name: component_472
+      paths:
+        - "Package472/**.py"
+
+    - component_id: component_473
+      name: component_473
+      paths:
+        - "Package473/**.py"
+
+    - component_id: component_474
+      name: component_474
+      paths:
+        - "Package474/**.py"
+
+    - component_id: component_475
+      name: component_475
+      paths:
+        - "Package475/**.py"
+
+    - component_id: component_476
+      name: component_476
+      paths:
+        - "Package476/**.py"
+
+    - component_id: component_477
+      name: component_477
+      paths:
+        - "Package477/**.py"
+
+    - component_id: component_478
+      name: component_478
+      paths:
+        - "Package478/**.py"
+
+    - component_id: component_479
+      name: component_479
+      paths:
+        - "Package479/**.py"
+
+    - component_id: component_480
+      name: component_480
+      paths:
+        - "Package480/**.py"
+
+    - component_id: component_481
+      name: component_481
+      paths:
+        - "Package481/**.py"
+
+    - component_id: component_482
+      name: component_482
+      paths:
+        - "Package482/**.py"
+
+    - component_id: component_483
+      name: component_483
+      paths:
+        - "Package483/**.py"
+
+    - component_id: component_484
+      name: component_484
+      paths:
+        - "Package484/**.py"
+
+    - component_id: component_485
+      name: component_485
+      paths:
+        - "Package485/**.py"
+
+    - component_id: component_486
+      name: component_486
+      paths:
+        - "Package486/**.py"
+
+    - component_id: component_487
+      name: component_487
+      paths:
+        - "Package487/**.py"
+
+    - component_id: component_488
+      name: component_488
+      paths:
+        - "Package488/**.py"
+
+    - component_id: component_489
+      name: component_489
+      paths:
+        - "Package489/**.py"
+
+    - component_id: component_490
+      name: component_490
+      paths:
+        - "Package490/**.py"
+
+    - component_id: component_491
+      name: component_491
+      paths:
+        - "Package491/**.py"
+
+    - component_id: component_492
+      name: component_492
+      paths:
+        - "Package492/**.py"
+
+    - component_id: component_493
+      name: component_493
+      paths:
+        - "Package493/**.py"
+
+    - component_id: component_494
+      name: component_494
+      paths:
+        - "Package494/**.py"
+
+    - component_id: component_495
+      name: component_495
+      paths:
+        - "Package495/**.py"
+
+    - component_id: component_496
+      name: component_496
+      paths:
+        - "Package496/**.py"
+
+    - component_id: component_497
+      name: component_497
+      paths:
+        - "Package497/**.py"
+
+    - component_id: component_498
+      name: component_498
+      paths:
+        - "Package498/**.py"
+
+    - component_id: component_499
+      name: component_499
+      paths:
+        - "Package499/**.py"
+
+    - component_id: component_500
+      name: component_500
+      paths:
+        - "Package500/**.py"
+
+    - component_id: component_501
+      name: component_501
+      paths:
+        - "Package501/**.py"
+
+    - component_id: component_502
+      name: component_502
+      paths:
+        - "Package502/**.py"
+
+    - component_id: component_503
+      name: component_503
+      paths:
+        - "Package503/**.py"
+
+    - component_id: component_504
+      name: component_504
+      paths:
+        - "Package504/**.py"
+
+    - component_id: component_505
+      name: component_505
+      paths:
+        - "Package505/**.py"
+
+    - component_id: component_506
+      name: component_506
+      paths:
+        - "Package506/**.py"
+
+    - component_id: component_507
+      name: component_507
+      paths:
+        - "Package507/**.py"
+
+    - component_id: component_508
+      name: component_508
+      paths:
+        - "Package508/**.py"
+
+    - component_id: component_509
+      name: component_509
+      paths:
+        - "Package509/**.py"
+
+    - component_id: component_510
+      name: component_510
+      paths:
+        - "Package510/**.py"
+
+    - component_id: component_511
+      name: component_511
+      paths:
+        - "Package511/**.py"
+
+    - component_id: component_512
+      name: component_512
+      paths:
+        - "Package512/**.py"
+
+    - component_id: component_513
+      name: component_513
+      paths:
+        - "Package513/**.py"
+
+    - component_id: component_514
+      name: component_514
+      paths:
+        - "Package514/**.py"
+
+    - component_id: component_515
+      name: component_515
+      paths:
+        - "Package515/**.py"
+
+    - component_id: component_516
+      name: component_516
+      paths:
+        - "Package516/**.py"
+
+    - component_id: component_517
+      name: component_517
+      paths:
+        - "Package517/**.py"
+
+    - component_id: component_518
+      name: component_518
+      paths:
+        - "Package518/**.py"
+
+    - component_id: component_519
+      name: component_519
+      paths:
+        - "Package519/**.py"
+
+    - component_id: component_520
+      name: component_520
+      paths:
+        - "Package520/**.py"
+
+    - component_id: component_521
+      name: component_521
+      paths:
+        - "Package521/**.py"
+
+    - component_id: component_522
+      name: component_522
+      paths:
+        - "Package522/**.py"
+
+    - component_id: component_523
+      name: component_523
+      paths:
+        - "Package523/**.py"
+
+    - component_id: component_524
+      name: component_524
+      paths:
+        - "Package524/**.py"
+
+    - component_id: component_525
+      name: component_525
+      paths:
+        - "Package525/**.py"
+
+    - component_id: component_526
+      name: component_526
+      paths:
+        - "Package526/**.py"
+
+    - component_id: component_527
+      name: component_527
+      paths:
+        - "Package527/**.py"
+
+    - component_id: component_528
+      name: component_528
+      paths:
+        - "Package528/**.py"
+
+    - component_id: component_529
+      name: component_529
+      paths:
+        - "Package529/**.py"
+
+    - component_id: component_530
+      name: component_530
+      paths:
+        - "Package530/**.py"
+
+    - component_id: component_531
+      name: component_531
+      paths:
+        - "Package531/**.py"
+
+    - component_id: component_532
+      name: component_532
+      paths:
+        - "Package532/**.py"
+
+    - component_id: component_533
+      name: component_533
+      paths:
+        - "Package533/**.py"
+
+    - component_id: component_534
+      name: component_534
+      paths:
+        - "Package534/**.py"
+
+    - component_id: component_535
+      name: component_535
+      paths:
+        - "Package535/**.py"
+
+    - component_id: component_536
+      name: component_536
+      paths:
+        - "Package536/**.py"
+
+    - component_id: component_537
+      name: component_537
+      paths:
+        - "Package537/**.py"
+
+    - component_id: component_538
+      name: component_538
+      paths:
+        - "Package538/**.py"
+
+    - component_id: component_539
+      name: component_539
+      paths:
+        - "Package539/**.py"
+
+    - component_id: component_540
+      name: component_540
+      paths:
+        - "Package540/**.py"
+
+    - component_id: component_541
+      name: component_541
+      paths:
+        - "Package541/**.py"
+
+    - component_id: component_542
+      name: component_542
+      paths:
+        - "Package542/**.py"
+
+    - component_id: component_543
+      name: component_543
+      paths:
+        - "Package543/**.py"
+
+    - component_id: component_544
+      name: component_544
+      paths:
+        - "Package544/**.py"
+
+    - component_id: component_545
+      name: component_545
+      paths:
+        - "Package545/**.py"
+
+    - component_id: component_546
+      name: component_546
+      paths:
+        - "Package546/**.py"
+
+    - component_id: component_547
+      name: component_547
+      paths:
+        - "Package547/**.py"
+
+    - component_id: component_548
+      name: component_548
+      paths:
+        - "Package548/**.py"
+
+    - component_id: component_549
+      name: component_549
+      paths:
+        - "Package549/**.py"
+
+    - component_id: component_550
+      name: component_550
+      paths:
+        - "Package550/**.py"
+
+    - component_id: component_551
+      name: component_551
+      paths:
+        - "Package551/**.py"
+
+    - component_id: component_552
+      name: component_552
+      paths:
+        - "Package552/**.py"
+
+    - component_id: component_553
+      name: component_553
+      paths:
+        - "Package553/**.py"
+
+    - component_id: component_554
+      name: component_554
+      paths:
+        - "Package554/**.py"
+
+    - component_id: component_555
+      name: component_555
+      paths:
+        - "Package555/**.py"
+
+    - component_id: component_556
+      name: component_556
+      paths:
+        - "Package556/**.py"
+
+    - component_id: component_557
+      name: component_557
+      paths:
+        - "Package557/**.py"
+
+    - component_id: component_558
+      name: component_558
+      paths:
+        - "Package558/**.py"
+
+    - component_id: component_559
+      name: component_559
+      paths:
+        - "Package559/**.py"
+
+    - component_id: component_560
+      name: component_560
+      paths:
+        - "Package560/**.py"
+
+    - component_id: component_561
+      name: component_561
+      paths:
+        - "Package561/**.py"
+
+    - component_id: component_562
+      name: component_562
+      paths:
+        - "Package562/**.py"
+
+    - component_id: component_563
+      name: component_563
+      paths:
+        - "Package563/**.py"
+
+    - component_id: component_564
+      name: component_564
+      paths:
+        - "Package564/**.py"
+
+    - component_id: component_565
+      name: component_565
+      paths:
+        - "Package565/**.py"
+
+    - component_id: component_566
+      name: component_566
+      paths:
+        - "Package566/**.py"
+
+    - component_id: component_567
+      name: component_567
+      paths:
+        - "Package567/**.py"
+
+    - component_id: component_568
+      name: component_568
+      paths:
+        - "Package568/**.py"
+
+    - component_id: component_569
+      name: component_569
+      paths:
+        - "Package569/**.py"
+
+    - component_id: component_570
+      name: component_570
+      paths:
+        - "Package570/**.py"
+
+    - component_id: component_571
+      name: component_571
+      paths:
+        - "Package571/**.py"
+
+    - component_id: component_572
+      name: component_572
+      paths:
+        - "Package572/**.py"
+
+    - component_id: component_573
+      name: component_573
+      paths:
+        - "Package573/**.py"
+
+    - component_id: component_574
+      name: component_574
+      paths:
+        - "Package574/**.py"
+
+    - component_id: component_575
+      name: component_575
+      paths:
+        - "Package575/**.py"
+
+    - component_id: component_576
+      name: component_576
+      paths:
+        - "Package576/**.py"
+
+    - component_id: component_577
+      name: component_577
+      paths:
+        - "Package577/**.py"
+
+    - component_id: component_578
+      name: component_578
+      paths:
+        - "Package578/**.py"
+
+    - component_id: component_579
+      name: component_579
+      paths:
+        - "Package579/**.py"
+
+    - component_id: component_580
+      name: component_580
+      paths:
+        - "Package580/**.py"
+
+    - component_id: component_581
+      name: component_581
+      paths:
+        - "Package581/**.py"
+
+    - component_id: component_582
+      name: component_582
+      paths:
+        - "Package582/**.py"
+
+    - component_id: component_583
+      name: component_583
+      paths:
+        - "Package583/**.py"
+
+    - component_id: component_584
+      name: component_584
+      paths:
+        - "Package584/**.py"
+
+    - component_id: component_585
+      name: component_585
+      paths:
+        - "Package585/**.py"
+
+    - component_id: component_586
+      name: component_586
+      paths:
+        - "Package586/**.py"
+
+    - component_id: component_587
+      name: component_587
+      paths:
+        - "Package587/**.py"
+
+    - component_id: component_588
+      name: component_588
+      paths:
+        - "Package588/**.py"
+
+    - component_id: component_589
+      name: component_589
+      paths:
+        - "Package589/**.py"
+
+    - component_id: component_590
+      name: component_590
+      paths:
+        - "Package590/**.py"
+
+    - component_id: component_591
+      name: component_591
+      paths:
+        - "Package591/**.py"
+
+    - component_id: component_592
+      name: component_592
+      paths:
+        - "Package592/**.py"
+
+    - component_id: component_593
+      name: component_593
+      paths:
+        - "Package593/**.py"
+
+    - component_id: component_594
+      name: component_594
+      paths:
+        - "Package594/**.py"
+
+    - component_id: component_595
+      name: component_595
+      paths:
+        - "Package595/**.py"
+
+    - component_id: component_596
+      name: component_596
+      paths:
+        - "Package596/**.py"
+
+    - component_id: component_597
+      name: component_597
+      paths:
+        - "Package597/**.py"
+
+    - component_id: component_598
+      name: component_598
+      paths:
+        - "Package598/**.py"
+
+    - component_id: component_599
+      name: component_599
+      paths:
+        - "Package599/**.py"
+
+    - component_id: component_600
+      name: component_600
+      paths:
+        - "Package600/**.py"
+
+    - component_id: component_601
+      name: component_601
+      paths:
+        - "Package601/**.py"
+
+    - component_id: component_602
+      name: component_602
+      paths:
+        - "Package602/**.py"
+
+    - component_id: component_603
+      name: component_603
+      paths:
+        - "Package603/**.py"
+
+    - component_id: component_604
+      name: component_604
+      paths:
+        - "Package604/**.py"
+
+    - component_id: component_605
+      name: component_605
+      paths:
+        - "Package605/**.py"
+
+    - component_id: component_606
+      name: component_606
+      paths:
+        - "Package606/**.py"
+
+    - component_id: component_607
+      name: component_607
+      paths:
+        - "Package607/**.py"
+
+    - component_id: component_608
+      name: component_608
+      paths:
+        - "Package608/**.py"
+
+    - component_id: component_609
+      name: component_609
+      paths:
+        - "Package609/**.py"
+
+    - component_id: component_610
+      name: component_610
+      paths:
+        - "Package610/**.py"
+
+    - component_id: component_611
+      name: component_611
+      paths:
+        - "Package611/**.py"
+
+    - component_id: component_612
+      name: component_612
+      paths:
+        - "Package612/**.py"
+
+    - component_id: component_613
+      name: component_613
+      paths:
+        - "Package613/**.py"
+
+    - component_id: component_614
+      name: component_614
+      paths:
+        - "Package614/**.py"
+
+    - component_id: component_615
+      name: component_615
+      paths:
+        - "Package615/**.py"
+
+    - component_id: component_616
+      name: component_616
+      paths:
+        - "Package616/**.py"
+
+    - component_id: component_617
+      name: component_617
+      paths:
+        - "Package617/**.py"
+
+    - component_id: component_618
+      name: component_618
+      paths:
+        - "Package618/**.py"
+
+    - component_id: component_619
+      name: component_619
+      paths:
+        - "Package619/**.py"
+
+    - component_id: component_620
+      name: component_620
+      paths:
+        - "Package620/**.py"
+
+    - component_id: component_621
+      name: component_621
+      paths:
+        - "Package621/**.py"
+
+    - component_id: component_622
+      name: component_622
+      paths:
+        - "Package622/**.py"
+
+    - component_id: component_623
+      name: component_623
+      paths:
+        - "Package623/**.py"
+
+    - component_id: component_624
+      name: component_624
+      paths:
+        - "Package624/**.py"
+
+    - component_id: component_625
+      name: component_625
+      paths:
+        - "Package625/**.py"
+
+    - component_id: component_626
+      name: component_626
+      paths:
+        - "Package626/**.py"
+
+    - component_id: component_627
+      name: component_627
+      paths:
+        - "Package627/**.py"
+
+    - component_id: component_628
+      name: component_628
+      paths:
+        - "Package628/**.py"
+
+    - component_id: component_629
+      name: component_629
+      paths:
+        - "Package629/**.py"
+
+    - component_id: component_630
+      name: component_630
+      paths:
+        - "Package630/**.py"
+
+    - component_id: component_631
+      name: component_631
+      paths:
+        - "Package631/**.py"
+
+    - component_id: component_632
+      name: component_632
+      paths:
+        - "Package632/**.py"
+
+    - component_id: component_633
+      name: component_633
+      paths:
+        - "Package633/**.py"
+
+    - component_id: component_634
+      name: component_634
+      paths:
+        - "Package634/**.py"
+
+    - component_id: component_635
+      name: component_635
+      paths:
+        - "Package635/**.py"
+
+    - component_id: component_636
+      name: component_636
+      paths:
+        - "Package636/**.py"
+
+    - component_id: component_637
+      name: component_637
+      paths:
+        - "Package637/**.py"
+
+    - component_id: component_638
+      name: component_638
+      paths:
+        - "Package638/**.py"
+
+    - component_id: component_639
+      name: component_639
+      paths:
+        - "Package639/**.py"
+
+    - component_id: component_640
+      name: component_640
+      paths:
+        - "Package640/**.py"
+
+    - component_id: component_641
+      name: component_641
+      paths:
+        - "Package641/**.py"
+
+    - component_id: component_642
+      name: component_642
+      paths:
+        - "Package642/**.py"
+
+    - component_id: component_643
+      name: component_643
+      paths:
+        - "Package643/**.py"
+
+    - component_id: component_644
+      name: component_644
+      paths:
+        - "Package644/**.py"
+
+    - component_id: component_645
+      name: component_645
+      paths:
+        - "Package645/**.py"
+
+    - component_id: component_646
+      name: component_646
+      paths:
+        - "Package646/**.py"
+
+    - component_id: component_647
+      name: component_647
+      paths:
+        - "Package647/**.py"
+
+    - component_id: component_648
+      name: component_648
+      paths:
+        - "Package648/**.py"
+
+    - component_id: component_649
+      name: component_649
+      paths:
+        - "Package649/**.py"
+
+    - component_id: component_650
+      name: component_650
+      paths:
+        - "Package650/**.py"
+
+    - component_id: component_651
+      name: component_651
+      paths:
+        - "Package651/**.py"
+
+    - component_id: component_652
+      name: component_652
+      paths:
+        - "Package652/**.py"
+
+    - component_id: component_653
+      name: component_653
+      paths:
+        - "Package653/**.py"
+
+    - component_id: component_654
+      name: component_654
+      paths:
+        - "Package654/**.py"
+
+    - component_id: component_655
+      name: component_655
+      paths:
+        - "Package655/**.py"
+
+    - component_id: component_656
+      name: component_656
+      paths:
+        - "Package656/**.py"
+
+    - component_id: component_657
+      name: component_657
+      paths:
+        - "Package657/**.py"
+
+    - component_id: component_658
+      name: component_658
+      paths:
+        - "Package658/**.py"
+
+    - component_id: component_659
+      name: component_659
+      paths:
+        - "Package659/**.py"
+
+    - component_id: component_660
+      name: component_660
+      paths:
+        - "Package660/**.py"
+
+    - component_id: component_661
+      name: component_661
+      paths:
+        - "Package661/**.py"
+
+    - component_id: component_662
+      name: component_662
+      paths:
+        - "Package662/**.py"
+
+    - component_id: component_663
+      name: component_663
+      paths:
+        - "Package663/**.py"
+
+    - component_id: component_664
+      name: component_664
+      paths:
+        - "Package664/**.py"
+
+    - component_id: component_665
+      name: component_665
+      paths:
+        - "Package665/**.py"
+
+    - component_id: component_666
+      name: component_666
+      paths:
+        - "Package666/**.py"
+
+    - component_id: component_667
+      name: component_667
+      paths:
+        - "Package667/**.py"
+
+    - component_id: component_668
+      name: component_668
+      paths:
+        - "Package668/**.py"
+
+    - component_id: component_669
+      name: component_669
+      paths:
+        - "Package669/**.py"
+
+    - component_id: component_670
+      name: component_670
+      paths:
+        - "Package670/**.py"
+
+    - component_id: component_671
+      name: component_671
+      paths:
+        - "Package671/**.py"
+
+    - component_id: component_672
+      name: component_672
+      paths:
+        - "Package672/**.py"
+
+    - component_id: component_673
+      name: component_673
+      paths:
+        - "Package673/**.py"
+
+    - component_id: component_674
+      name: component_674
+      paths:
+        - "Package674/**.py"
+
+    - component_id: component_675
+      name: component_675
+      paths:
+        - "Package675/**.py"
+
+    - component_id: component_676
+      name: component_676
+      paths:
+        - "Package676/**.py"
+
+    - component_id: component_677
+      name: component_677
+      paths:
+        - "Package677/**.py"
+
+    - component_id: component_678
+      name: component_678
+      paths:
+        - "Package678/**.py"
+
+    - component_id: component_679
+      name: component_679
+      paths:
+        - "Package679/**.py"
+
+    - component_id: component_680
+      name: component_680
+      paths:
+        - "Package680/**.py"
+
+    - component_id: component_681
+      name: component_681
+      paths:
+        - "Package681/**.py"
+
+    - component_id: component_682
+      name: component_682
+      paths:
+        - "Package682/**.py"
+
+    - component_id: component_683
+      name: component_683
+      paths:
+        - "Package683/**.py"
+
+    - component_id: component_684
+      name: component_684
+      paths:
+        - "Package684/**.py"
+
+    - component_id: component_685
+      name: component_685
+      paths:
+        - "Package685/**.py"
+
+    - component_id: component_686
+      name: component_686
+      paths:
+        - "Package686/**.py"
+
+    - component_id: component_687
+      name: component_687
+      paths:
+        - "Package687/**.py"
+
+    - component_id: component_688
+      name: component_688
+      paths:
+        - "Package688/**.py"
+
+    - component_id: component_689
+      name: component_689
+      paths:
+        - "Package689/**.py"
+
+    - component_id: component_690
+      name: component_690
+      paths:
+        - "Package690/**.py"
+
+    - component_id: component_691
+      name: component_691
+      paths:
+        - "Package691/**.py"
+
+    - component_id: component_692
+      name: component_692
+      paths:
+        - "Package692/**.py"
+
+    - component_id: component_693
+      name: component_693
+      paths:
+        - "Package693/**.py"
+
+    - component_id: component_694
+      name: component_694
+      paths:
+        - "Package694/**.py"
+
+    - component_id: component_695
+      name: component_695
+      paths:
+        - "Package695/**.py"
+
+    - component_id: component_696
+      name: component_696
+      paths:
+        - "Package696/**.py"
+
+    - component_id: component_697
+      name: component_697
+      paths:
+        - "Package697/**.py"
+
+    - component_id: component_698
+      name: component_698
+      paths:
+        - "Package698/**.py"
+
+    - component_id: component_699
+      name: component_699
+      paths:
+        - "Package699/**.py"
+
+    - component_id: component_700
+      name: component_700
+      paths:
+        - "Package700/**.py"
+
+    - component_id: component_701
+      name: component_701
+      paths:
+        - "Package701/**.py"
+
+    - component_id: component_702
+      name: component_702
+      paths:
+        - "Package702/**.py"
+
+    - component_id: component_703
+      name: component_703
+      paths:
+        - "Package703/**.py"
+
+    - component_id: component_704
+      name: component_704
+      paths:
+        - "Package704/**.py"
+
+    - component_id: component_705
+      name: component_705
+      paths:
+        - "Package705/**.py"
+
+    - component_id: component_706
+      name: component_706
+      paths:
+        - "Package706/**.py"
+
+    - component_id: component_707
+      name: component_707
+      paths:
+        - "Package707/**.py"
+
+    - component_id: component_708
+      name: component_708
+      paths:
+        - "Package708/**.py"
+
+    - component_id: component_709
+      name: component_709
+      paths:
+        - "Package709/**.py"
+
+    - component_id: component_710
+      name: component_710
+      paths:
+        - "Package710/**.py"
+
+    - component_id: component_711
+      name: component_711
+      paths:
+        - "Package711/**.py"
+
+    - component_id: component_712
+      name: component_712
+      paths:
+        - "Package712/**.py"
+
+    - component_id: component_713
+      name: component_713
+      paths:
+        - "Package713/**.py"
+
+    - component_id: component_714
+      name: component_714
+      paths:
+        - "Package714/**.py"
+
+    - component_id: component_715
+      name: component_715
+      paths:
+        - "Package715/**.py"
+
+    - component_id: component_716
+      name: component_716
+      paths:
+        - "Package716/**.py"
+
+    - component_id: component_717
+      name: component_717
+      paths:
+        - "Package717/**.py"
+
+    - component_id: component_718
+      name: component_718
+      paths:
+        - "Package718/**.py"
+
+    - component_id: component_719
+      name: component_719
+      paths:
+        - "Package719/**.py"
+
+    - component_id: component_720
+      name: component_720
+      paths:
+        - "Package720/**.py"
+
+    - component_id: component_721
+      name: component_721
+      paths:
+        - "Package721/**.py"
+
+    - component_id: component_722
+      name: component_722
+      paths:
+        - "Package722/**.py"
+
+    - component_id: component_723
+      name: component_723
+      paths:
+        - "Package723/**.py"
+
+    - component_id: component_724
+      name: component_724
+      paths:
+        - "Package724/**.py"
+
+    - component_id: component_725
+      name: component_725
+      paths:
+        - "Package725/**.py"
+
+    - component_id: component_726
+      name: component_726
+      paths:
+        - "Package726/**.py"
+
+    - component_id: component_727
+      name: component_727
+      paths:
+        - "Package727/**.py"
+
+    - component_id: component_728
+      name: component_728
+      paths:
+        - "Package728/**.py"
+
+    - component_id: component_729
+      name: component_729
+      paths:
+        - "Package729/**.py"
+
+    - component_id: component_730
+      name: component_730
+      paths:
+        - "Package730/**.py"
+
+    - component_id: component_731
+      name: component_731
+      paths:
+        - "Package731/**.py"
+
+    - component_id: component_732
+      name: component_732
+      paths:
+        - "Package732/**.py"
+
+    - component_id: component_733
+      name: component_733
+      paths:
+        - "Package733/**.py"
+
+    - component_id: component_734
+      name: component_734
+      paths:
+        - "Package734/**.py"
+
+    - component_id: component_735
+      name: component_735
+      paths:
+        - "Package735/**.py"
+
+    - component_id: component_736
+      name: component_736
+      paths:
+        - "Package736/**.py"
+
+    - component_id: component_737
+      name: component_737
+      paths:
+        - "Package737/**.py"
+
+    - component_id: component_738
+      name: component_738
+      paths:
+        - "Package738/**.py"
+
+    - component_id: component_739
+      name: component_739
+      paths:
+        - "Package739/**.py"
+
+    - component_id: component_740
+      name: component_740
+      paths:
+        - "Package740/**.py"
+
+    - component_id: component_741
+      name: component_741
+      paths:
+        - "Package741/**.py"
+
+    - component_id: component_742
+      name: component_742
+      paths:
+        - "Package742/**.py"
+
+    - component_id: component_743
+      name: component_743
+      paths:
+        - "Package743/**.py"
+
+    - component_id: component_744
+      name: component_744
+      paths:
+        - "Package744/**.py"
+
+    - component_id: component_745
+      name: component_745
+      paths:
+        - "Package745/**.py"
+
+    - component_id: component_746
+      name: component_746
+      paths:
+        - "Package746/**.py"
+
+    - component_id: component_747
+      name: component_747
+      paths:
+        - "Package747/**.py"
+
+    - component_id: component_748
+      name: component_748
+      paths:
+        - "Package748/**.py"
+
+    - component_id: component_749
+      name: component_749
+      paths:
+        - "Package749/**.py"
+
+    - component_id: component_750
+      name: component_750
+      paths:
+        - "Package750/**.py"
+
+    - component_id: component_751
+      name: component_751
+      paths:
+        - "Package751/**.py"
+
+    - component_id: component_752
+      name: component_752
+      paths:
+        - "Package752/**.py"
+
+    - component_id: component_753
+      name: component_753
+      paths:
+        - "Package753/**.py"
+
+    - component_id: component_754
+      name: component_754
+      paths:
+        - "Package754/**.py"
+
+    - component_id: component_755
+      name: component_755
+      paths:
+        - "Package755/**.py"
+
+    - component_id: component_756
+      name: component_756
+      paths:
+        - "Package756/**.py"
+
+    - component_id: component_757
+      name: component_757
+      paths:
+        - "Package757/**.py"
+
+    - component_id: component_758
+      name: component_758
+      paths:
+        - "Package758/**.py"
+
+    - component_id: component_759
+      name: component_759
+      paths:
+        - "Package759/**.py"
+
+    - component_id: component_760
+      name: component_760
+      paths:
+        - "Package760/**.py"
+
+    - component_id: component_761
+      name: component_761
+      paths:
+        - "Package761/**.py"
+
+    - component_id: component_762
+      name: component_762
+      paths:
+        - "Package762/**.py"
+
+    - component_id: component_763
+      name: component_763
+      paths:
+        - "Package763/**.py"
+
+    - component_id: component_764
+      name: component_764
+      paths:
+        - "Package764/**.py"
+
+    - component_id: component_765
+      name: component_765
+      paths:
+        - "Package765/**.py"
+
+    - component_id: component_766
+      name: component_766
+      paths:
+        - "Package766/**.py"
+
+    - component_id: component_767
+      name: component_767
+      paths:
+        - "Package767/**.py"
+
+    - component_id: component_768
+      name: component_768
+      paths:
+        - "Package768/**.py"
+
+    - component_id: component_769
+      name: component_769
+      paths:
+        - "Package769/**.py"
+
+    - component_id: component_770
+      name: component_770
+      paths:
+        - "Package770/**.py"
+
+    - component_id: component_771
+      name: component_771
+      paths:
+        - "Package771/**.py"
+
+    - component_id: component_772
+      name: component_772
+      paths:
+        - "Package772/**.py"
+
+    - component_id: component_773
+      name: component_773
+      paths:
+        - "Package773/**.py"
+
+    - component_id: component_774
+      name: component_774
+      paths:
+        - "Package774/**.py"
+
+    - component_id: component_775
+      name: component_775
+      paths:
+        - "Package775/**.py"
+
+    - component_id: component_776
+      name: component_776
+      paths:
+        - "Package776/**.py"
+
+    - component_id: component_777
+      name: component_777
+      paths:
+        - "Package777/**.py"
+
+    - component_id: component_778
+      name: component_778
+      paths:
+        - "Package778/**.py"
+
+    - component_id: component_779
+      name: component_779
+      paths:
+        - "Package779/**.py"
+
+    - component_id: component_780
+      name: component_780
+      paths:
+        - "Package780/**.py"
+
+    - component_id: component_781
+      name: component_781
+      paths:
+        - "Package781/**.py"
+
+    - component_id: component_782
+      name: component_782
+      paths:
+        - "Package782/**.py"
+
+    - component_id: component_783
+      name: component_783
+      paths:
+        - "Package783/**.py"
+
+    - component_id: component_784
+      name: component_784
+      paths:
+        - "Package784/**.py"
+
+    - component_id: component_785
+      name: component_785
+      paths:
+        - "Package785/**.py"
+
+    - component_id: component_786
+      name: component_786
+      paths:
+        - "Package786/**.py"
+
+    - component_id: component_787
+      name: component_787
+      paths:
+        - "Package787/**.py"
+
+    - component_id: component_788
+      name: component_788
+      paths:
+        - "Package788/**.py"
+
+    - component_id: component_789
+      name: component_789
+      paths:
+        - "Package789/**.py"
+
+    - component_id: component_790
+      name: component_790
+      paths:
+        - "Package790/**.py"
+
+    - component_id: component_791
+      name: component_791
+      paths:
+        - "Package791/**.py"
+
+    - component_id: component_792
+      name: component_792
+      paths:
+        - "Package792/**.py"
+
+    - component_id: component_793
+      name: component_793
+      paths:
+        - "Package793/**.py"
+
+    - component_id: component_794
+      name: component_794
+      paths:
+        - "Package794/**.py"
+
+    - component_id: component_795
+      name: component_795
+      paths:
+        - "Package795/**.py"
+
+    - component_id: component_796
+      name: component_796
+      paths:
+        - "Package796/**.py"
+
+    - component_id: component_797
+      name: component_797
+      paths:
+        - "Package797/**.py"
+
+    - component_id: component_798
+      name: component_798
+      paths:
+        - "Package798/**.py"
+
+    - component_id: component_799
+      name: component_799
+      paths:
+        - "Package799/**.py"
+
+    - component_id: component_800
+      name: component_800
+      paths:
+        - "Package800/**.py"
+
+    - component_id: component_801
+      name: component_801
+      paths:
+        - "Package801/**.py"
+
+    - component_id: component_802
+      name: component_802
+      paths:
+        - "Package802/**.py"
+
+    - component_id: component_803
+      name: component_803
+      paths:
+        - "Package803/**.py"
+
+    - component_id: component_804
+      name: component_804
+      paths:
+        - "Package804/**.py"
+
+    - component_id: component_805
+      name: component_805
+      paths:
+        - "Package805/**.py"
+
+    - component_id: component_806
+      name: component_806
+      paths:
+        - "Package806/**.py"
+
+    - component_id: component_807
+      name: component_807
+      paths:
+        - "Package807/**.py"
+
+    - component_id: component_808
+      name: component_808
+      paths:
+        - "Package808/**.py"
+
+    - component_id: component_809
+      name: component_809
+      paths:
+        - "Package809/**.py"
+
+    - component_id: component_810
+      name: component_810
+      paths:
+        - "Package810/**.py"
+
+    - component_id: component_811
+      name: component_811
+      paths:
+        - "Package811/**.py"
+
+    - component_id: component_812
+      name: component_812
+      paths:
+        - "Package812/**.py"
+
+    - component_id: component_813
+      name: component_813
+      paths:
+        - "Package813/**.py"
+
+    - component_id: component_814
+      name: component_814
+      paths:
+        - "Package814/**.py"
+
+    - component_id: component_815
+      name: component_815
+      paths:
+        - "Package815/**.py"
+
+    - component_id: component_816
+      name: component_816
+      paths:
+        - "Package816/**.py"
+
+    - component_id: component_817
+      name: component_817
+      paths:
+        - "Package817/**.py"
+
+    - component_id: component_818
+      name: component_818
+      paths:
+        - "Package818/**.py"
+
+    - component_id: component_819
+      name: component_819
+      paths:
+        - "Package819/**.py"
+
+    - component_id: component_820
+      name: component_820
+      paths:
+        - "Package820/**.py"
+
+    - component_id: component_821
+      name: component_821
+      paths:
+        - "Package821/**.py"
+
+    - component_id: component_822
+      name: component_822
+      paths:
+        - "Package822/**.py"
+
+    - component_id: component_823
+      name: component_823
+      paths:
+        - "Package823/**.py"
+
+    - component_id: component_824
+      name: component_824
+      paths:
+        - "Package824/**.py"
+
+    - component_id: component_825
+      name: component_825
+      paths:
+        - "Package825/**.py"
+
+    - component_id: component_826
+      name: component_826
+      paths:
+        - "Package826/**.py"
+
+    - component_id: component_827
+      name: component_827
+      paths:
+        - "Package827/**.py"
+
+    - component_id: component_828
+      name: component_828
+      paths:
+        - "Package828/**.py"
+
+    - component_id: component_829
+      name: component_829
+      paths:
+        - "Package829/**.py"
+
+    - component_id: component_830
+      name: component_830
+      paths:
+        - "Package830/**.py"
+
+    - component_id: component_831
+      name: component_831
+      paths:
+        - "Package831/**.py"
+
+    - component_id: component_832
+      name: component_832
+      paths:
+        - "Package832/**.py"
+
+    - component_id: component_833
+      name: component_833
+      paths:
+        - "Package833/**.py"
+
+    - component_id: component_834
+      name: component_834
+      paths:
+        - "Package834/**.py"
+
+    - component_id: component_835
+      name: component_835
+      paths:
+        - "Package835/**.py"
+
+    - component_id: component_836
+      name: component_836
+      paths:
+        - "Package836/**.py"
+
+    - component_id: component_837
+      name: component_837
+      paths:
+        - "Package837/**.py"
+
+    - component_id: component_838
+      name: component_838
+      paths:
+        - "Package838/**.py"
+
+    - component_id: component_839
+      name: component_839
+      paths:
+        - "Package839/**.py"
+
+    - component_id: component_840
+      name: component_840
+      paths:
+        - "Package840/**.py"
+
+    - component_id: component_841
+      name: component_841
+      paths:
+        - "Package841/**.py"
+
+    - component_id: component_842
+      name: component_842
+      paths:
+        - "Package842/**.py"
+
+    - component_id: component_843
+      name: component_843
+      paths:
+        - "Package843/**.py"
+
+    - component_id: component_844
+      name: component_844
+      paths:
+        - "Package844/**.py"
+
+    - component_id: component_845
+      name: component_845
+      paths:
+        - "Package845/**.py"
+
+    - component_id: component_846
+      name: component_846
+      paths:
+        - "Package846/**.py"
+
+    - component_id: component_847
+      name: component_847
+      paths:
+        - "Package847/**.py"
+
+    - component_id: component_848
+      name: component_848
+      paths:
+        - "Package848/**.py"
+
+    - component_id: component_849
+      name: component_849
+      paths:
+        - "Package849/**.py"
+
+    - component_id: component_850
+      name: component_850
+      paths:
+        - "Package850/**.py"
+
+    - component_id: component_851
+      name: component_851
+      paths:
+        - "Package851/**.py"
+
+    - component_id: component_852
+      name: component_852
+      paths:
+        - "Package852/**.py"
+
+    - component_id: component_853
+      name: component_853
+      paths:
+        - "Package853/**.py"
+
+    - component_id: component_854
+      name: component_854
+      paths:
+        - "Package854/**.py"
+
+    - component_id: component_855
+      name: component_855
+      paths:
+        - "Package855/**.py"
+
+    - component_id: component_856
+      name: component_856
+      paths:
+        - "Package856/**.py"
+
+    - component_id: component_857
+      name: component_857
+      paths:
+        - "Package857/**.py"
+
+    - component_id: component_858
+      name: component_858
+      paths:
+        - "Package858/**.py"
+
+    - component_id: component_859
+      name: component_859
+      paths:
+        - "Package859/**.py"
+
+    - component_id: component_860
+      name: component_860
+      paths:
+        - "Package860/**.py"
+
+    - component_id: component_861
+      name: component_861
+      paths:
+        - "Package861/**.py"
+
+    - component_id: component_862
+      name: component_862
+      paths:
+        - "Package862/**.py"
+
+    - component_id: component_863
+      name: component_863
+      paths:
+        - "Package863/**.py"
+
+    - component_id: component_864
+      name: component_864
+      paths:
+        - "Package864/**.py"
+
+    - component_id: component_865
+      name: component_865
+      paths:
+        - "Package865/**.py"
+
+    - component_id: component_866
+      name: component_866
+      paths:
+        - "Package866/**.py"
+
+    - component_id: component_867
+      name: component_867
+      paths:
+        - "Package867/**.py"
+
+    - component_id: component_868
+      name: component_868
+      paths:
+        - "Package868/**.py"
+
+    - component_id: component_869
+      name: component_869
+      paths:
+        - "Package869/**.py"
+
+    - component_id: component_870
+      name: component_870
+      paths:
+        - "Package870/**.py"
+
+    - component_id: component_871
+      name: component_871
+      paths:
+        - "Package871/**.py"
+
+    - component_id: component_872
+      name: component_872
+      paths:
+        - "Package872/**.py"
+
+    - component_id: component_873
+      name: component_873
+      paths:
+        - "Package873/**.py"
+
+    - component_id: component_874
+      name: component_874
+      paths:
+        - "Package874/**.py"
+
+    - component_id: component_875
+      name: component_875
+      paths:
+        - "Package875/**.py"
+
+    - component_id: component_876
+      name: component_876
+      paths:
+        - "Package876/**.py"
+
+    - component_id: component_877
+      name: component_877
+      paths:
+        - "Package877/**.py"
+
+    - component_id: component_878
+      name: component_878
+      paths:
+        - "Package878/**.py"
+
+    - component_id: component_879
+      name: component_879
+      paths:
+        - "Package879/**.py"
+
+    - component_id: component_880
+      name: component_880
+      paths:
+        - "Package880/**.py"
+
+    - component_id: component_881
+      name: component_881
+      paths:
+        - "Package881/**.py"
+
+    - component_id: component_882
+      name: component_882
+      paths:
+        - "Package882/**.py"
+
+    - component_id: component_883
+      name: component_883
+      paths:
+        - "Package883/**.py"
+
+    - component_id: component_884
+      name: component_884
+      paths:
+        - "Package884/**.py"
+
+    - component_id: component_885
+      name: component_885
+      paths:
+        - "Package885/**.py"
+
+    - component_id: component_886
+      name: component_886
+      paths:
+        - "Package886/**.py"
+
+    - component_id: component_887
+      name: component_887
+      paths:
+        - "Package887/**.py"
+
+    - component_id: component_888
+      name: component_888
+      paths:
+        - "Package888/**.py"
+
+    - component_id: component_889
+      name: component_889
+      paths:
+        - "Package889/**.py"
+
+    - component_id: component_890
+      name: component_890
+      paths:
+        - "Package890/**.py"
+
+    - component_id: component_891
+      name: component_891
+      paths:
+        - "Package891/**.py"
+
+    - component_id: component_892
+      name: component_892
+      paths:
+        - "Package892/**.py"
+
+    - component_id: component_893
+      name: component_893
+      paths:
+        - "Package893/**.py"
+
+    - component_id: component_894
+      name: component_894
+      paths:
+        - "Package894/**.py"
+
+    - component_id: component_895
+      name: component_895
+      paths:
+        - "Package895/**.py"
+
+    - component_id: component_896
+      name: component_896
+      paths:
+        - "Package896/**.py"
+
+    - component_id: component_897
+      name: component_897
+      paths:
+        - "Package897/**.py"
+
+    - component_id: component_898
+      name: component_898
+      paths:
+        - "Package898/**.py"
+
+    - component_id: component_899
+      name: component_899
+      paths:
+        - "Package899/**.py"
+
+    - component_id: component_900
+      name: component_900
+      paths:
+        - "Package900/**.py"
+
+    - component_id: component_901
+      name: component_901
+      paths:
+        - "Package901/**.py"
+
+    - component_id: component_902
+      name: component_902
+      paths:
+        - "Package902/**.py"
+
+    - component_id: component_903
+      name: component_903
+      paths:
+        - "Package903/**.py"
+
+    - component_id: component_904
+      name: component_904
+      paths:
+        - "Package904/**.py"
+
+    - component_id: component_905
+      name: component_905
+      paths:
+        - "Package905/**.py"
+
+    - component_id: component_906
+      name: component_906
+      paths:
+        - "Package906/**.py"
+
+    - component_id: component_907
+      name: component_907
+      paths:
+        - "Package907/**.py"
+
+    - component_id: component_908
+      name: component_908
+      paths:
+        - "Package908/**.py"
+
+    - component_id: component_909
+      name: component_909
+      paths:
+        - "Package909/**.py"
+
+    - component_id: component_910
+      name: component_910
+      paths:
+        - "Package910/**.py"
+
+    - component_id: component_911
+      name: component_911
+      paths:
+        - "Package911/**.py"
+
+    - component_id: component_912
+      name: component_912
+      paths:
+        - "Package912/**.py"
+
+    - component_id: component_913
+      name: component_913
+      paths:
+        - "Package913/**.py"
+
+    - component_id: component_914
+      name: component_914
+      paths:
+        - "Package914/**.py"
+
+    - component_id: component_915
+      name: component_915
+      paths:
+        - "Package915/**.py"
+
+    - component_id: component_916
+      name: component_916
+      paths:
+        - "Package916/**.py"
+
+    - component_id: component_917
+      name: component_917
+      paths:
+        - "Package917/**.py"
+
+    - component_id: component_918
+      name: component_918
+      paths:
+        - "Package918/**.py"
+
+    - component_id: component_919
+      name: component_919
+      paths:
+        - "Package919/**.py"
+
+    - component_id: component_920
+      name: component_920
+      paths:
+        - "Package920/**.py"
+
+    - component_id: component_921
+      name: component_921
+      paths:
+        - "Package921/**.py"
+
+    - component_id: component_922
+      name: component_922
+      paths:
+        - "Package922/**.py"
+
+    - component_id: component_923
+      name: component_923
+      paths:
+        - "Package923/**.py"
+
+    - component_id: component_924
+      name: component_924
+      paths:
+        - "Package924/**.py"
+
+    - component_id: component_925
+      name: component_925
+      paths:
+        - "Package925/**.py"
+
+    - component_id: component_926
+      name: component_926
+      paths:
+        - "Package926/**.py"
+
+    - component_id: component_927
+      name: component_927
+      paths:
+        - "Package927/**.py"
+
+    - component_id: component_928
+      name: component_928
+      paths:
+        - "Package928/**.py"
+
+    - component_id: component_929
+      name: component_929
+      paths:
+        - "Package929/**.py"
+
+    - component_id: component_930
+      name: component_930
+      paths:
+        - "Package930/**.py"
+
+    - component_id: component_931
+      name: component_931
+      paths:
+        - "Package931/**.py"
+
+    - component_id: component_932
+      name: component_932
+      paths:
+        - "Package932/**.py"
+
+    - component_id: component_933
+      name: component_933
+      paths:
+        - "Package933/**.py"
+
+    - component_id: component_934
+      name: component_934
+      paths:
+        - "Package934/**.py"
+
+    - component_id: component_935
+      name: component_935
+      paths:
+        - "Package935/**.py"
+
+    - component_id: component_936
+      name: component_936
+      paths:
+        - "Package936/**.py"
+
+    - component_id: component_937
+      name: component_937
+      paths:
+        - "Package937/**.py"
+
+    - component_id: component_938
+      name: component_938
+      paths:
+        - "Package938/**.py"
+
+    - component_id: component_939
+      name: component_939
+      paths:
+        - "Package939/**.py"
+
+    - component_id: component_940
+      name: component_940
+      paths:
+        - "Package940/**.py"
+
+    - component_id: component_941
+      name: component_941
+      paths:
+        - "Package941/**.py"
+
+    - component_id: component_942
+      name: component_942
+      paths:
+        - "Package942/**.py"
+
+    - component_id: component_943
+      name: component_943
+      paths:
+        - "Package943/**.py"
+
+    - component_id: component_944
+      name: component_944
+      paths:
+        - "Package944/**.py"
+
+    - component_id: component_945
+      name: component_945
+      paths:
+        - "Package945/**.py"
+
+    - component_id: component_946
+      name: component_946
+      paths:
+        - "Package946/**.py"
+
+    - component_id: component_947
+      name: component_947
+      paths:
+        - "Package947/**.py"
+
+    - component_id: component_948
+      name: component_948
+      paths:
+        - "Package948/**.py"
+
+    - component_id: component_949
+      name: component_949
+      paths:
+        - "Package949/**.py"
+
+    - component_id: component_950
+      name: component_950
+      paths:
+        - "Package950/**.py"
+
+    - component_id: component_951
+      name: component_951
+      paths:
+        - "Package951/**.py"
+
+    - component_id: component_952
+      name: component_952
+      paths:
+        - "Package952/**.py"
+
+    - component_id: component_953
+      name: component_953
+      paths:
+        - "Package953/**.py"
+
+    - component_id: component_954
+      name: component_954
+      paths:
+        - "Package954/**.py"
+
+    - component_id: component_955
+      name: component_955
+      paths:
+        - "Package955/**.py"
+
+    - component_id: component_956
+      name: component_956
+      paths:
+        - "Package956/**.py"
+
+    - component_id: component_957
+      name: component_957
+      paths:
+        - "Package957/**.py"
+
+    - component_id: component_958
+      name: component_958
+      paths:
+        - "Package958/**.py"
+
+    - component_id: component_959
+      name: component_959
+      paths:
+        - "Package959/**.py"
+
+    - component_id: component_960
+      name: component_960
+      paths:
+        - "Package960/**.py"
+
+    - component_id: component_961
+      name: component_961
+      paths:
+        - "Package961/**.py"
+
+    - component_id: component_962
+      name: component_962
+      paths:
+        - "Package962/**.py"
+
+    - component_id: component_963
+      name: component_963
+      paths:
+        - "Package963/**.py"
+
+    - component_id: component_964
+      name: component_964
+      paths:
+        - "Package964/**.py"
+
+    - component_id: component_965
+      name: component_965
+      paths:
+        - "Package965/**.py"
+
+    - component_id: component_966
+      name: component_966
+      paths:
+        - "Package966/**.py"
+
+    - component_id: component_967
+      name: component_967
+      paths:
+        - "Package967/**.py"
+
+    - component_id: component_968
+      name: component_968
+      paths:
+        - "Package968/**.py"
+
+    - component_id: component_969
+      name: component_969
+      paths:
+        - "Package969/**.py"
+
+    - component_id: component_970
+      name: component_970
+      paths:
+        - "Package970/**.py"
+
+    - component_id: component_971
+      name: component_971
+      paths:
+        - "Package971/**.py"
+
+    - component_id: component_972
+      name: component_972
+      paths:
+        - "Package972/**.py"
+
+    - component_id: component_973
+      name: component_973
+      paths:
+        - "Package973/**.py"
+
+    - component_id: component_974
+      name: component_974
+      paths:
+        - "Package974/**.py"
+
+    - component_id: component_975
+      name: component_975
+      paths:
+        - "Package975/**.py"
+
+    - component_id: component_976
+      name: component_976
+      paths:
+        - "Package976/**.py"
+
+    - component_id: component_977
+      name: component_977
+      paths:
+        - "Package977/**.py"
+
+    - component_id: component_978
+      name: component_978
+      paths:
+        - "Package978/**.py"
+
+    - component_id: component_979
+      name: component_979
+      paths:
+        - "Package979/**.py"
+
+    - component_id: component_980
+      name: component_980
+      paths:
+        - "Package980/**.py"
+
+    - component_id: component_981
+      name: component_981
+      paths:
+        - "Package981/**.py"
+
+    - component_id: component_982
+      name: component_982
+      paths:
+        - "Package982/**.py"
+
+    - component_id: component_983
+      name: component_983
+      paths:
+        - "Package983/**.py"
+
+    - component_id: component_984
+      name: component_984
+      paths:
+        - "Package984/**.py"
+
+    - component_id: component_985
+      name: component_985
+      paths:
+        - "Package985/**.py"
+
+    - component_id: component_986
+      name: component_986
+      paths:
+        - "Package986/**.py"
+
+    - component_id: component_987
+      name: component_987
+      paths:
+        - "Package987/**.py"
+
+    - component_id: component_988
+      name: component_988
+      paths:
+        - "Package988/**.py"
+
+    - component_id: component_989
+      name: component_989
+      paths:
+        - "Package989/**.py"
+
+    - component_id: component_990
+      name: component_990
+      paths:
+        - "Package990/**.py"
+
+    - component_id: component_991
+      name: component_991
+      paths:
+        - "Package991/**.py"
+
+    - component_id: component_992
+      name: component_992
+      paths:
+        - "Package992/**.py"
+
+    - component_id: component_993
+      name: component_993
+      paths:
+        - "Package993/**.py"
+
+    - component_id: component_994
+      name: component_994
+      paths:
+        - "Package994/**.py"
+
+    - component_id: component_995
+      name: component_995
+      paths:
+        - "Package995/**.py"
+
+    - component_id: component_996
+      name: component_996
+      paths:
+        - "Package996/**.py"
+
+    - component_id: component_997
+      name: component_997
+      paths:
+        - "Package997/**.py"
+
+    - component_id: component_998
+      name: component_998
+      paths:
+        - "Package998/**.py"
+
+    - component_id: component_999
+      name: component_999
+      paths:
+        - "Package999/**.py"
